@@ -1,5 +1,4 @@
-# Web-Dev-Learning-
-My personal web development learning repo
+
 # Web Development Journey
 
 Welcome to my personal web development learning repository!
